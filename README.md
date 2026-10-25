@@ -62,27 +62,27 @@ My own repos. Forks are in the next table.
 
 ### Forked Workshop
 
-Forks I keep. The first rows are the ones I have changed. The rest still match the original on the default branch, or they are behind it and I have not committed on top.
+Forks I keep. The first rows are the ones I have changed.
 
 | Fork | Original | Where mine differs |
 | --- | --- | --- |
 | [OpenSeeFace GUI](https://github.com/SparksSkywere/OpenSeeFaceGUI) | [emilianavt/OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) | Added a camera GUI, a VMC sender, and setup scripts. |
 | [RTS Engine 64-bit](https://github.com/SparksSkywere/RTS-Engine-64Bit) | [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) | Zero Hour is the main tree. 64-bit work, a sync fix, and Generals taken out. |
 | [EXE File Analyzer](https://github.com/SparksSkywere/exe-file-analyzer) | [piplarsson/exe-file-analyzer](https://github.com/piplarsson/exe-file-analyzer) | Rebuilt as a GUI. |
-| [Vintage Story Pickup Artist](https://github.com/SparksSkywere/vintagestory-pickupartist) | [mass8326/vintagestory-pickupartist](https://github.com/mass8326/vintagestory-pickupartist) | Fixed the mod for Vintage Story 1.21.5. Upstream has moved on since that commit. |
+| [Vintage Story Pickup Artist](https://github.com/SparksSkywere/vintagestory-pickupartist) | [mass8326/vintagestory-pickupartist](https://github.com/mass8326/vintagestory-pickupartist) | Fixed the mod for Vintage Story 1.21.5. |
 | [Discord channel merge bot](https://github.com/SparksSkywere/discord-channel-merge-bot) | [Nimiates/discord-channel-merge-bot](https://github.com/Nimiates/discord-channel-merge-bot) | Edits to the bot script and the readme. |
-| [Haven](https://github.com/SparksSkywere/Haven) | [ancsemi/Haven](https://github.com/ancsemi/Haven) | No commits of mine on main. It is 4 commits behind. `site-status` is a separate branch with an automated community status commit. |
-| [s&amp;box](https://github.com/SparksSkywere/sbox-public) | [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) | No commits of mine on master. It is 1 commit behind Facepunch. |
-| [SkyFox](https://github.com/SparksSkywere/skyfox) | [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) | Fork of Firefox. Main still matches that code. |
-| [ReactOS](https://github.com/SparksSkywere/reactos) | [reactos/reactos](https://github.com/reactos/reactos) | No commits of mine on master. It is behind upstream. |
-| [Stable Diffusion web UI](https://github.com/SparksSkywere/stable-diffusion-webui) | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | No commits of mine. Master matches the original. |
-| [VS Code Palpets](https://github.com/SparksSkywere/vscode-palpets) | [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) | No commits of mine on main. It is behind vscode-pets. |
-| [Unturned SDK](https://github.com/SparksSkywere/U3-SDK) | [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | No commits of mine on main. It is behind the official SDK. |
-| [Towns](https://github.com/SparksSkywere/Towns) | [supermalparit/Towns](https://github.com/supermalparit/Towns) | No commits of mine on main. |
-| [Vintage Story Player Model Lib](https://github.com/SparksSkywere/vsmod_PlayerModelLib) | [maltiez2/vsmod_PlayerModelLib](https://github.com/maltiez2/vsmod_PlayerModelLib) | No commits of mine on master. It is behind upstream. |
-| [KinectCam v2](https://github.com/SparksSkywere/KinectCamV2) | [DavidObando/KinectCamV2](https://github.com/DavidObando/KinectCamV2) | No commits of mine. Master matches the original. |
-| [Modrinth mod updater](https://github.com/SparksSkywere/feature-fixenv) | [bastrian/modrinth-mod-updater](https://github.com/bastrian/modrinth-mod-updater) | No commits of mine on main. The repo on my side is named feature-fixenv. It is behind the original. |
-| [UE Asset Downloader](https://github.com/SparksSkywere/UEAssetDownloader) | [JMBROGB666/UEAssetDownloader](https://github.com/JMBROGB666/UEAssetDownloader) | No commits of mine. Master matches the original. |
+| [Haven](https://github.com/SparksSkywere/Haven) | [ancsemi/Haven](https://github.com/ancsemi/Haven) | No commits made. |
+| [s&amp;box](https://github.com/SparksSkywere/sbox-public) | [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) | No commits made. |
+| [SkyFox](https://github.com/SparksSkywere/skyfox) | [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) | No commits made. |
+| [ReactOS](https://github.com/SparksSkywere/reactos) | [reactos/reactos](https://github.com/reactos/reactos) | No commits made. |
+| [Stable Diffusion web UI](https://github.com/SparksSkywere/stable-diffusion-webui) | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | No commits made. |
+| [VS Code Palpets](https://github.com/SparksSkywere/vscode-palpets) | [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) | No commits made. |
+| [Unturned SDK](https://github.com/SparksSkywere/U3-SDK) | [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | No commits made. |
+| [Towns](https://github.com/SparksSkywere/Towns) | [supermalparit/Towns](https://github.com/supermalparit/Towns) | No commits made. |
+| [Vintage Story Player Model Lib](https://github.com/SparksSkywere/vsmod_PlayerModelLib) | [maltiez2/vsmod_PlayerModelLib](https://github.com/maltiez2/vsmod_PlayerModelLib) | No commits made. |
+| [KinectCam v2](https://github.com/SparksSkywere/KinectCamV2) | [DavidObando/KinectCamV2](https://github.com/DavidObando/KinectCamV2) | No commits made. |
+| [Modrinth mod updater](https://github.com/SparksSkywere/feature-fixenv) | [bastrian/modrinth-mod-updater](https://github.com/bastrian/modrinth-mod-updater) | No commits made. |
+| [UE Asset Downloader](https://github.com/SparksSkywere/UEAssetDownloader) | [JMBROGB666/UEAssetDownloader](https://github.com/JMBROGB666/UEAssetDownloader) | No commits made. |
 
 ### Hands on
 
