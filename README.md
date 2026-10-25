@@ -18,6 +18,8 @@ Hi, I'm Sparks. I do onsite IT in the UK: clients, servers, networks, and web fi
 
 The picture is me. Rikkor is the species. Genju created the characters, and the green one is the one I own. I do the model, the scenes, and the renders.
 
+My main fursona is "Sparks Skywere" a mint green and white Timber Wolf.
+
 These days the programs are mostly C# and C++, with PowerShell still doing the jobs it is good at.
 
 ### Right now
@@ -47,14 +49,8 @@ The older PowerShell scripts are in the repos as well. [D&amp;D character creato
 - Fursuit parts. Armsleeves, handpaws, head fixes, and general maintenance at meets. Photos from Furcation are on the [pictures](https://www.skywereindustries.com/pictures.html) page.
 - A [Garry's Mod toolgun](https://github.com/dudisgit/gmod_toolgun_prop), built with dudisgit. Raspberry Pi Zero inside, code is up for anyone making their own.
 - [EVE Online](https://www.skywereindustries.com/gaming/eveonline/) fittings, routes, a killboard, and manufacturing trees.
-- Drawings and commissions under [The Ice Fox Arts](https://www.skywereindustries.com/theicefoxarts/). The price sheet is on the [art page](https://www.skywereindustries.com/art_showcase.html).
+- GF Drawings and commissions under [The Ice Fox Arts](https://www.skywereindustries.com/theicefoxarts/). The price sheet is on the [art page](https://www.skywereindustries.com/art_showcase.html).
 - Videos on [YouTube](https://www.youtube.com/c/SparksSkywere). Games, old and new, and whatever else I feel like putting up.
-
-### The green one
-
-Mint green, white down the front, big ears, blue eyes, glasses. On the model the glasses are closer to goggles, the coat is cream with brown trim, and there is a satchel and a fluffy tail. The flat art puts the same face in travelling clothes, a wizard coat, or just the glasses.
-
-More of him is on the site. Species and the other character in the render are Genju's. [Genju's site](https://wezalsya.jimdofree.com/) · [Booth](https://forestwind.booth.pm/)
 
 <p align="center">
   <a href="https://www.skywereindustries.com/">Skywere Industries</a>
